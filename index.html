@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Monthly Price Forecast</title>
+</head>
+<body>
+    <h1>Price Forecast App</h1>
+
+    <form action="/predict" method="POST">
+        <label>Enter Month Number:</label>
+        <input type="number" name="month" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+        <h2>Predicted Price: {{ prediction }}</h2>
+    {% endif %}
+</body>
+</html>

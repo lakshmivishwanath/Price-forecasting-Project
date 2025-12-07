@@ -130,9 +130,18 @@ This project includes:
 
 - Complete data quality checks  
 - Outlier analysis (without removal)  
-- Simple feature engineering  
+- Simple feature engineering
 - Random Forest Regression training  
-- Next-month forecasting  
-- Deployment using Flask  
+- Next-month forecasting
+- Deployment using Flask
 - Clean project workflow for interviews and portfolio  
+
+<img width="543" height="233" alt="Screenshot 2025-12-07 193050" src="https://github.com/user-attachments/assets/4d05d6d2-7923-48ca-88f1-987b9f631c52" />
+
+<img width="530" height="250" alt="Screenshot 2025-12-07 193103" src="https://github.com/user-attachments/assets/84ededde-689d-4643-8b73-e20da0a0c7f9" />
+
+
+
+
+
 
